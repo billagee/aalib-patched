@@ -1,7 +1,6 @@
 #include "config.h"
 #ifdef LINUX_DRIVER
 #include <sys/stat.h>
-#include <malloc.h>
 #include <sys/ioctl.h>
 #include <linux/kd.h>
 #ifdef GPM_MOUSEDRIVER
