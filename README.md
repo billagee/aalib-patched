@@ -2,7 +2,7 @@ aalib-patched
 =============
 This repo contains the files from the final aalib source tarball posted to
 sourceforge in April 2001 (aalib-1.4rc5.tar.gz), with useful patches from
-later modifications already applied.  Sources for the patches include:
+a variety of later maintainers applied.  Sources for the patches include:
 
 - homebrew:
   https://github.com/mxcl/homebrew/blob/master/Library/Formula/aalib.rb
