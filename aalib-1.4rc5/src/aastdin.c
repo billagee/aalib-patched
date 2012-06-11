@@ -88,7 +88,7 @@ static int stdin_getchar(aa_context * c1, int wait)
     if (c > 0 && c < 127 && c != 127)
 	return (c);
     switch (c) {
-#ifdef KEY_MOUDE
+#ifdef KEY_MOUSE
     case KEY_MOUSE:
 	return AA_MOUSE
 #endif

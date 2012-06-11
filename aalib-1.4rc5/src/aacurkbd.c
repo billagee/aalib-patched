@@ -112,7 +112,7 @@ static int curses_getchar(aa_context * c1, int wait)
 	return (AA_UP);
     case KEY_DOWN:
 	return (AA_DOWN);
-#ifdef KEY_MOUDE
+#ifdef KEY_MOUSE
     case KEY_MOUSE:
 #ifdef GPM_MOUSEDRIVER
 	if (!__curses_usegpm)
