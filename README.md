@@ -18,5 +18,5 @@ For more info see:
 Bill Agee ( http://www.likewise.org )
 
 ## License
-aalib's license (GNU GENERAL PUBLIC LICENSE Version 2, June 1991)
+aalib's license (GNU LGPLv2)
 
