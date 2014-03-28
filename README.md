@@ -15,7 +15,7 @@ For more info see:
 - The aalib homepage:  http://aa-project.sourceforge.net/aalib/
 - The aalib sourceforge project site: http://sourceforge.net/projects/aa-project/
 
-Bill Agee ( http://www.likewise.org )
+Bill Agee ( http://blog.likewise.org )
 
 ## License
 aalib's license (GNU LGPLv2)
